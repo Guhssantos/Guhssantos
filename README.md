@@ -29,11 +29,11 @@ No meu cotidiano, utilizo ativamente as seguintes ferramentas para explorar o un
 Aqui você pode acompanhar um pouco da minha jornada e contribuições:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gustavo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guhssantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gustavo"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=radical" alt="GitHub Streak de Gustavo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guhssantos&theme=radical" alt="GitHub Streak de Gustavo"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=radical" alt="Linguagens Mais Usadas por Gustavo"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhssantos&layout=compact&langs_count=8&theme=radical" alt="Linguagens Mais Usadas por Gustavo"/>
 </p>
 
 *(**Observação:** Substitua `SEU_USUARIO_GITHUB` pelo seu nome de usuário no GitHub para que os gráficos funcionem corretamente.)*
