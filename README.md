@@ -1,86 +1,56 @@
-<h1 align="center">Olá! Eu sou o Gustavo 👋</h1>
+# Olá, eu sou o Gustavo! 👋
 
 <p align="center">
-  💡 Apaixonado por tecnologia, curioso por natureza e fascinado pelo poder da <strong>Inteligência Artificial</strong>.<br>
-  💻 Estudando Python e focado em construir uma carreira sólida na área de IA.
+  <img src="https://raw.githubusercontent.com/gist/gusttavo-ssantos/SUA_GIST_ID_AQUI/raw/IMAGEM_DE_CAPA_AQUI.png" alt="Banner do Perfil com tema de IA">
 </p>
 
----
+Sou um entusiasta da Inteligência Artificial, fascinado pelo potencial transformador desta área. Diariamente, exploro e utilizo algumas das ferramentas mais inovadoras do mercado para aprimorar meus conhecimentos e desenvolver soluções criativas. Meu objetivo é construir uma carreira sólida em IA e contribuir para o avanço dessa tecnologia.
 
-### 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Sou movido pela curiosidade e por um desejo constante de aprender — foi isso que me trouxe até o mundo da <strong>Inteligência Artificial</strong>.
+* 🧠 Apaixonado por Inteligência Artificial e suas aplicações.
+* 🐍 Atualmente me aprofundando nos estudos de Python, a linguagem do futuro da IA.
+* 🎯 Focado em construir uma carreira como especialista em Inteligência Artificial.
+* 💡 Acredito que a IA tem o poder de resolver problemas complexos e melhorar a vida das pessoas.
+* 🤝 Aberto a colaborações e novas oportunidades de aprendizado.
 
-✨ Minha paixão está em <strong>usar IA para melhorar a vida das pessoas</strong>. Gosto de desenvolver soluções que <strong>compreendem sentimentos</strong>, <strong>ajudam emocionalmente</strong>, <strong>ensinam com empatia</strong> e <strong>facilitam decisões inteligentes</strong> no dia a dia. Não busco apenas automatizar tarefas, mas <strong>criar experiências que conectem tecnologia e humanidade</strong>.
+## 🛠️ Ferramentas de IA no meu Dia a Dia
 
-🔍 Me interesso profundamente por áreas como:
+No meu cotidiano, utilizo ativamente as seguintes ferramentas para explorar o universo da Inteligência Artificial:
 
-- 🧠 <strong>Processamento de Linguagem Natural (PLN)</strong> — compreender e gerar linguagem com propósito.
-- ❤️ <strong>Análise de Sentimentos</strong> — interpretar emoções e oferecer respostas empáticas.
-- 🎨 <strong>IA Generativa</strong> — transformar texto em ideias criativas e interativas.
-- 📈 <strong>Machine Learning Preditivo</strong> — ajudar pessoas a tomarem melhores decisões com base em dados.
-- 🗣️ <strong>Interação Homem-Máquina</strong> — tornar a tecnologia mais acessível e natural, por voz ou texto.
+| Ferramenta      | Imagem Representativa                                                                                                                                                                                             | Descrição                                                                                                |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **ChatGPT** | <img src="https://raw.githubusercontent.com/gist/gusttavo-ssantos/SUA_GIST_ID_AQUI/raw/chatgpt-logo.png" width="150" alt="ChatGPT Logo">                                                                           | Um modelo de linguagem avançado para geração de texto, tradução, criação de conteúdo e muito mais.       |
+| **Gemini** | <img src="https://raw.githubusercontent.com/gist/gusttavo-ssantos/SUA_GIST_ID_AQUI/raw/gemini-logo.png" width="150" alt="Gemini Logo">                                                                             | A mais recente e capaz família de modelos de IA do Google, com habilidades multimodais impressionantes. |
+| **Microsoft Copilot** | <img src="https://raw.githubusercontent.com/gist/gusttavo-ssantos/SUA_GIST_ID_AQUI/raw/copilot-logo.png" width="150" alt="Microsoft Copilot Logo">                                                               | Um assistente de IA integrado que auxilia na codificação, escrita e diversas outras tarefas.           |
 
-📌 Meus projetos atuais incluem:
+## 📊 Minhas Atividades e Interações no GitHub
 
-- 🤖 <strong>Chatbot de Suporte Emocional</strong>: Com análise de sentimentos, respostas empáticas e relatórios inteligentes com gráficos e integração com Google Sheets.
-- 🙏 <strong>SophIA</strong>: Uma inteligência artificial voltada ao ensino bíblico baseada na doutrina da Assembleia de Deus, utilizando a API do Gemini.
-- 👟 <strong>IA de comparação de produtos</strong>: Sistema inteligente que analisa modelos populares de marcas como Nike, Adidas, Puma e Vans para oferecer sugestões baseadas em dados reais de mercado.
-
----
-
-### 🛠️ Ferramentas que utilizo no meu dia a dia
+Aqui você pode acompanhar um pouco da minha jornada e contribuições:
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" alt="ChatGPT" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Gemini_Logo.svg" height="50" alt="Gemini" />
-  <img src="https://learn.microsoft.com/en-us/media/logos/copilot.svg" height="50" alt="Microsoft Copilot" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gustavo"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=radical" alt="GitHub Streak de Gustavo"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=radical" alt="Linguagens Mais Usadas por Gustavo"/>
 </p>
 
-Utilizo essas ferramentas para me auxiliar em tarefas como:
+*(**Observação:** Substitua `SEU_USUARIO_GITHUB` pelo seu nome de usuário no GitHub para que os gráficos funcionem corretamente.)*
 
-- Escrita e refinamento de código
-- Ideação de projetos com IA generativa
-- Diagnóstico e análise de problemas
-- Criação de conteúdo assistido por IA
+## 📫 Entre em Contato
 
----
+Adoraria me conectar e trocar ideias! Você pode me encontrar em:
 
-### 📊 Estatísticas & Atividades
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario-aqui&theme=dark" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
-
-> 🎯 Em breve, incluirei gráficos próprios gerados com Python + Matplotlib e Dashboards personalizados com IA. 👨‍💻
-
----
-
-### 📬 Entre em contato comigo
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gustavo-de-sousa-santos-9a600a201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:gusttavo.ssantos@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
 </p>
 
 ---
 
-### 🧠 Próximos passos
-
-- 📘 Aprofundar meus conhecimentos em Python para IA
-- 🧪 Desenvolver mais projetos com foco em saúde mental e educação
-- 🔗 Aprender sobre modelos de linguagem grandes (LLMs) e sua aplicação prática
-- 📜 Obter certificações reconhecidas em IA e análise de dados
-- ☁️ Publicar minhas soluções com integração em nuvem e APIs
-
----
-
-<p align="center">
-  ✨ Obrigado por visitar o meu perfil! Vamos nos conectar e construir algo incrível juntos. 🚀
-</p>
+*"A inteligência artificial será a versão definitiva de nós mesmos. A versão mais inteligente, mais capaz, mais tudo."* - **Ray Kurzweil**
