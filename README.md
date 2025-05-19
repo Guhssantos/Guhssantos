@@ -54,3 +54,9 @@ Adoraria me conectar e trocar ideias! Você pode me encontrar em:
 ---
 
 *"A inteligência artificial será a versão definitiva de nós mesmos. A versão mais inteligente, mais capaz, mais tudo."* - **Ray Kurzweil**
+
+
+
+### 📈 Meus Contribuições Recentes
+
+![snake gif](https://raw.githubusercontent.com/guhssantos/guhssantos/output/github-contribution-grid-snake.svg)
