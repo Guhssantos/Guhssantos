@@ -1,7 +1,8 @@
 ## Olá, sou Gustavo Santos 👋
 
-Sou Analista de TI e estou em transição de carreira, buscando minha primeira oportunidade profissional como Programador.  
-Meu foco de estudo é **Python**, com o objetivo de construir uma carreira em **Inteligência Artificial**.
+Atuo como Analista de Tecnologia da Informação e estou em processo de transição de carreira, com o objetivo de conquistar minha primeira oportunidade profissional como Desenvolvedor.  
+Tenho direcionado meus estudos à linguagem **Python**, com foco na construção de uma trajetória sólida na área de **Inteligência Artificial**.
+
 
 ---
 
@@ -35,6 +36,6 @@ Meu foco de estudo é **Python**, com o objetivo de construir uma carreira em **
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-de-sousa-santos-9a600a201/)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ofc_gsantos/)  [![Email](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gusttavo.ssantos@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-de-sousa-santos-9a600a201/) [![Email](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gusttavo.ssantos@outlook.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ofc_gsantos/)  
 
 ---
