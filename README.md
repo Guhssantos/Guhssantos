@@ -1,6 +1,6 @@
 ## Olá, sou Gustavo Santos 👋
 
-Atuo como Analista de Tecnologia da Informação e estou em processo de transição de carreira, com o objetivo de conquistar minha primeira oportunidade profissional como Desenvolvedor.  
+Atuo como Analista de TI e estou em processo de transição de carreira, com o objetivo de conquistar minha primeira oportunidade profissional como Desenvolvedor.  
 Tenho direcionado meus estudos à linguagem **Python**, com foco na construção de uma trajetória sólida na área de **Inteligência Artificial**.
 
 
